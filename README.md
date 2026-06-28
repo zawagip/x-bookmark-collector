@@ -4,7 +4,7 @@ XブックマークからFANZA URLを収集するGASパイプライン
 
 ## 構成
 - gas/bookmarks.js : ブックマーク取得・スプシ書き込み
-- Cloudflare Workers (ryulink) でX OAuth2中継
+- Cloudflare Workers でX OAuth2中継
 
 ## セットアップ
 1. https://ryulink.zawagipyask.workers.dev/x-oauth/redirect で認証
